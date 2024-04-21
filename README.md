@@ -1,7 +1,7 @@
 # Calculator with AVR
 
 ## Description
-This is a simple calculator with AVR ATmega8 , LCD and 4x4 keypad.
+This is a simple calculator with AVR ATmega32 , LCD and 4x4 keypad.
 
 ## Peripherals
 - AVR ATmega8
